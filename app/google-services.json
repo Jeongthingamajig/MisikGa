@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869015205420",
+    "project_id": "misikga-1258d",
+    "storage_bucket": "misikga-1258d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869015205420:android:20149ed8623d33938a4389",
+        "android_client_info": {
+          "package_name": "com.Graduration.misikga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869015205420-7kfdhf1de1mbf06qt5e5ejdptvo20j6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82tsQm1IL40xSIzqJDwEE85r-gk9UEYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869015205420-7kfdhf1de1mbf06qt5e5ejdptvo20j6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
